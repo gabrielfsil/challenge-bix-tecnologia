@@ -1,5 +1,7 @@
 # Desafio Bix Tecnologia
 
+As respostas do desafio estão no PDF `Bix Tecnologia.pdf`
+
 ## Descrição do Problema
 
 Uma empresa possui uma frota de veículos e viu seus custos de manutenção no sistema de ar subindo nos últimos.
