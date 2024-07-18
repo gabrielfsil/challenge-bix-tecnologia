@@ -1,5 +1,19 @@
 # Desafio Bix Tecnologia
 
+## Executar código
+
+É preciso ter o Python 3 instalado
+
+Instalar dependências
+```
+pip install -r requirements.txt 
+```
+
+Executar código
+```
+python3 main.py
+```
+
 As respostas do desafio estão no PDF `Bix Tecnologia.pdf`
 
 ## Descrição do Problema
@@ -261,3 +275,4 @@ Após os resultados utilizando essas técnicas alguns modelos apresentaram uma m
 Uma observação geral é que todos os modelos tiveram uma piora na precisão, que acarreta a mesma questão citada anteriormente com o Naive Bayes, que pode sobrecarregar o setor da ofinica. Assim, seria interessante analisar essa relação de custos caso esse modelo realmente cause esse problema.
 
 Olhando para a tabela acima é possível ver que o modelo de Regressão Logística e o KNN apresentaram resultados bem próximos e satisfatórios, apresentando as melhores métricas e a melhor redução dos custos.
+
