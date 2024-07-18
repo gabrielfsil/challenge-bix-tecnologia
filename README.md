@@ -253,3 +253,9 @@ Foram realizados testes usando as duas técnicas acima para analisar o desempenh
 |2º      |KNN                  | Undersampling |19.600       |0.97      | 0.71     | 0.97   |
 |3º      |Decision Tree        | Undersampling |24.885       |0.96      | 0.69     | 0.95   |
 |4º      |Naive Bayes          | Oversampling  |25.100       |0.95      | 0.66     | 0.95   |
+
+Após os resultados utilizando essas técnicas alguns modelos apresentaram uma melhora significativa e os resultados ficaram mais próximos.
+
+Uma observação geral é que todos os modelos tiveram uma piora na precisão, que acarreta a mesma questão citada anteriormente com o Naive Bayes, que pode sobrecarregar o setor da ofinica. Assim, seria interessante analisar essa relação de custos caso esse modelo realmente cause esse problema.
+
+Olhando para a tabela acima é possível ver que o modelo de Regressão Logística e o KNN apresentaram resultados bem próximos e satisfatórios, apresentando as melhores métricas e a melhor redução dos custos.
