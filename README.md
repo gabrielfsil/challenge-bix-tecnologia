@@ -2,7 +2,22 @@
 
 ## Executar código
 
-É preciso ter o Python 3 instalado
+Criar Python Virtual Environment with Python 3
+
+```
+python3 -m venv venv
+```
+
+Ativar ambiente
+
+No Linux:
+```
+source venv/bin/activate
+```
+No Windows:
+```
+venv\Scripts\activate
+```
 
 Instalar dependências
 ```
